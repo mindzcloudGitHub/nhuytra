@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Deploy2</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Trial__c.CheckBox__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Trial__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>DeployProfile1</members>
+        <name>Profile</name>
+    </types>
+    <version>57.0</version>
+</Package>
